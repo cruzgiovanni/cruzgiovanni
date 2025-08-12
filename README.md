@@ -1,16 +1,39 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-<!--
-**cruzgiovanni/cruzgiovanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+{
+  "name": "Giovanni Cruz",
+  "role": "Full-Stack Developer",
+  "greeting": "Hi, welcome to my profile!"
+  "location": "Brazil"
+}
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Tech Stack
+
+#### 💻 Languages
+[![Languages](https://skillicons.dev/icons?i=ts,js,python,java)](https://skillicons.dev)
+
+#### 🖥 Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind)](https://skillicons.dev)
+
+#### ⚙ Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
+#### 🗄 Databases & ORM
+[![Databases](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,supabase,prisma,oracle)](https://skillicons.dev)  
+
+#### 🚀 DevOps & Cloud
+[![DevOps](https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,git,github)](https://skillicons.dev)
+
+#### 📚 Software Architecture
+- Clean Code
+- SOLID Principles
+- Clean Architecture
+- Design Patterns
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
