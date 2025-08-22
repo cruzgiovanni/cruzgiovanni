@@ -20,7 +20,7 @@
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind)](https://skillicons.dev)
 
 #### ⚙ Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 #### 🗄 Databases & ORM
 [![Databases](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,supabase,prisma,oracle)](https://skillicons.dev)  
