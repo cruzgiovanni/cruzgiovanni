@@ -14,13 +14,13 @@
 ### ⚡ Tech Stack
 
 #### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=ts,js,python,java)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,python)](https://skillicons.dev)
 
 #### 🖥 Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,vite,tailwind,bootstrap)](https://skillicons.dev)
 
 #### ⚙ Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,jest)](https://skillicons.dev)
 
 #### 🗄 Databases & ORM
 [![Databases](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,supabase,prisma,oracle)](https://skillicons.dev)  
