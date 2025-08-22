@@ -23,7 +23,7 @@
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,jest)](https://skillicons.dev)
 
 #### 🗄 Databases & ORM
-[![Databases](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,supabase,prisma,oracle)](https://skillicons.dev)  
+[![Databases](https://skillicons.dev/icons?i=postgresql,prisma,mongodb,supabase,firebase,mysql)](https://skillicons.dev)  
 
 #### 🚀 DevOps & Cloud
 [![DevOps](https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,git,github)](https://skillicons.dev)
