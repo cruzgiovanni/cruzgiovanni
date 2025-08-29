@@ -14,7 +14,7 @@
 ### ⚡ Tech Stack
 
 #### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=ts,js,python)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=solidity,ts,js,python)](https://skillicons.dev)
 
 #### 🖥 Frontend
 [![Frontend](https://skillicons.dev/icons?i=nextjs,react,vite,tailwind,bootstrap)](https://skillicons.dev)
