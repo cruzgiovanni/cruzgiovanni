@@ -3,7 +3,7 @@
 ```
 {
   "name": "Giovanni Cruz",
-  "role": "Full-Stack Developer",
+  "role": "Web3 Full-Stack Developer",
   "greeting": "Hi, welcome to my profile!"
   "location": "Brazil"
 }
